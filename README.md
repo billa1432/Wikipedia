@@ -8,4 +8,4 @@ The Wikipedia Search App is a web application that allows users to search for Wi
 - **Real-time Results**: As the user types, the app provides real-time search suggestions based on Wikipedia's vast database.
 - **Responsive Design**: The app is designed to work seamlessly on both desktop and mobile devices.
 - **User-friendly UI**: It offers an intuitive and visually appealing user interface.
-- 
+  
